@@ -83,3 +83,5 @@ All kinds of contributions are welcome 🙌! The most basic way to show your sup
 <p align="center">
     <a href="https://www.buymeacoffee.com/fabston"><img alt="Buy Me A Coffee" title="☕️" src="https://raw.githubusercontent.com/fabston/TradingView-Webhook-Bot/master/assets/bmac.png" width=200px></a>
 </p>
+
+
